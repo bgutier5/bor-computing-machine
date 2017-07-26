@@ -1,0 +1,8 @@
+fcm/__init__.py
+fcm/math.py
+friendly_computing_machine.egg-info/PKG-INFO
+friendly_computing_machine.egg-info/SOURCES.txt
+friendly_computing_machine.egg-info/dependency_links.txt
+friendly_computing_machine.egg-info/requires.txt
+friendly_computing_machine.egg-info/top_level.txt
+friendly_computing_machine.egg-info/zip-safe
